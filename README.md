@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- 3D ANIMATED HEADER -->
-  <a href="https://github.com/hazny">
+  <a href="https://github.com/haznymhd">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,30:161b22,70:238636,100:2ea043&height=230&section=header&text=Hello%20World,%20I'm%20Hasni!%20👋&fontSize=42&fontColor=3fb950&animation=twinkling&fontAlignY=38" alt="Hasni Header Banner" width="100%"/>
   </a>
 
   <!-- TYPING EFFECT -->
-  <a href="https://github.com/hazny">
+  <a href="https://github.com/haznymhd">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Web+Developer+%26+UI%2FUX+Architect;🚀+Co-Founder+%26+Tech+Lead+at+WavePOS.lk+%26+WebVoxel.uk;🎨+Crafting+3D+Experiences%2C+SaaS+Platforms+%26+POS+Engines;🛠️+Next.js+%7C+TypeScript+%7C+Laravel+%7C+Tailwind+%7C+Figma" alt="Typing SVG" />
   </a>
 
@@ -23,7 +23,7 @@
     <a href="mailto:contact@webvoxel.uk">
       <img src="https://img.shields.io/badge/Get%20in%20Touch-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=hazny&label=PROFILE+VIEWS&style=for-the-badge&color=2ea043" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=haznymhd&label=PROFILE+VIEWS&style=for-the-badge&color=2ea043" alt="Profile Views"/>
   </p>
 
 </div>
@@ -79,9 +79,9 @@
   <p><i>Watch the Minecraft-themed 8-bit snake devour my GitHub contribution blocks! 🟩⛏️</i></p>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hazny/hazny/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hazny/hazny/output/github-contribution-grid-snake.svg" />
-    <img alt="Minecraft Snake Eating Contributions" src="https://raw.githubusercontent.com/hazny/hazny/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haznymhd/hasni/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haznymhd/hasni/output/github-contribution-grid-snake.svg" />
+    <img alt="Minecraft Snake Eating Contributions" src="https://raw.githubusercontent.com/haznymhd/hasni/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -113,8 +113,8 @@
 ### 🏆 3D Achievements & Trophies
 
 <div align="center">
-  <a href="https://github.com/hazny">
-    <img src="https://github-profile-trophy.vercel.app/?username=hazny&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=6" alt="Trophy Showcase" width="98%"/>
+  <a href="https://github.com/haznymhd">
+    <img src="https://github-profile-trophy.vercel.app/?username=haznymhd&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=6" alt="Trophy Showcase" width="98%"/>
   </a>
 </div>
 
@@ -126,13 +126,13 @@
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com/hazny">
-          <img src="https://github-readme-stats.vercel.app/api?username=hazny&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="195"/>
+        <a href="https://github.com/haznymhd">
+          <img src="https://github-readme-stats.vercel.app/api?username=haznymhd&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="195"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/hazny">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazny&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="195"/>
+        <a href="https://github.com/haznymhd">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=haznymhd&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="195"/>
         </a>
       </td>
     </tr>
@@ -141,8 +141,8 @@
   <br/>
 
   <!-- TOP LANGUAGES -->
-  <a href="https://github.com/hazny">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazny&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages" width="60%"/>
+  <a href="https://github.com/haznymhd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haznymhd&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages" width="60%"/>
   </a>
 </div>
 
@@ -151,8 +151,8 @@
 ### 📈 Activity Matrix
 
 <div align="center">
-  <a href="https://github.com/hazny">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hazny&theme=tokyo-night&hide_border=false&border_radius=10&area=true" width="98%" alt="Activity Graph"/>
+  <a href="https://github.com/haznymhd">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haznymhd&theme=tokyo-night&hide_border=false&border_radius=10&area=true" width="98%" alt="Activity Graph"/>
   </a>
 </div>
 
