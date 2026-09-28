@@ -144,9 +144,8 @@ More platforms, faster systems, richer 3D experiences—and that's just the begi
 
 ---
 
+<!-- ==================== CUSTOM MINECRAFT FOOTER BANNER ==================== -->
 <div align="center">
-
-<h3>FOLLOW HASNI</h3>
 
 <p>
 <a href="https://webvoxel.uk" target="_blank"><img src="https://img.shields.io/badge/🌐_WebVoxel-3c8527?style=for-the-badge&logoColor=white&color=3c8527&labelColor=2a5f1a" alt="WebVoxel"/></a>
@@ -158,26 +157,8 @@ More platforms, faster systems, richer 3D experiences—and that's just the begi
 <a href="mailto:contact@webvoxel.uk"><img src="https://img.shields.io/badge/✉️_Email-3c8527?style=for-the-badge&logoColor=white&color=3c8527&labelColor=2a5f1a" alt="Email"/></a>
 </p>
 
-<br/>
-
-<table width="100%" bgcolor="#000000" style="background-color: #000000; padding: 22px 10px; border-radius: 6px;">
-<tr>
-<td align="center">
-<p>
-<img src="https://img.shields.io/badge/MOJANG-STUDIOS-D81E06?style=for-the-badge&logo=mojangstudios&logoColor=white&color=D81E06" alt="Mojang Studios"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/XBOX-GAME_STUDIOS-107C10?style=for-the-badge&logo=xbox&logoColor=white&color=107C10" alt="Xbox Game Studios"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DEVELOPER-FORGE-2ea043?style=for-the-badge&logo=github&logoColor=white&color=2ea043" alt="Developer Forge"/>
-</p>
-<p style="color: #777777; font-family: monospace; font-size: 11px; margin: 10px 0 4px 0;">
-Hasni © 2026. "Minecraft" is a trademark of Mojang Synergies AB.
-</p>
-<p style="color: #555555; font-family: monospace; font-size: 10px; margin: 0;">
-Terms &amp; Conditions &bull; Brand &amp; Assets Guidelines &bull; WavePOS.lk &bull; WebVoxel.uk
-</p>
-</td>
-</tr>
-</table>
+<a href="https://github.com/haznymhd">
+<img src="https://raw.githubusercontent.com/haznymhd/haznymhd/main/assets/minecraft-footer.jpg" width="100%" alt="Hasni Minecraft Footer Banner" style="border-radius: 8px;"/>
+</a>
 
 </div>
